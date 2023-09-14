@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626623713 source:e:\cs\2nd year\semester 01\data structures and algorithms\lectures\assignment_02\main.c
+	<stdio.h>
+	<malloc.h>
+	<conio.h>
+
